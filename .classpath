@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/itext-pdfa-5.5.13.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/itextpdf-5.5.13.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/ecj-3.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/itext-2.1.7.js10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jackson-dataformat-xml-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jasperreports-6.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/woodstox-core-6.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/xmlbeans-2.0-20041214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/poi-ooxml-schemas-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/json-20210307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jackson-annotations-2.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jackson-core-2.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/jackson-databind-2.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onlyc/Downloads/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
